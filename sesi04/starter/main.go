@@ -20,6 +20,10 @@ func baca(in *bufio.Reader, prompt string) string {
 	return strings.TrimSpace(teks)
 }
 
+func test() {
+	fmt.Println("coba import")
+}
+
 func main() {
 	in := bufio.NewReader(os.Stdin)
 
