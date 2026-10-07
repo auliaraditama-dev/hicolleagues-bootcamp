@@ -6,9 +6,7 @@ import (
 
 func main() {
 
-	// fmt.Println(matematika.DoPrint())
-	//
-
+	// ini program untuk mendefined variable
 	nama := "budi"
 	umur := 25
 	tinggi := 165
